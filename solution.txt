@@ -1,0 +1,11 @@
+Scoreboard components:
+  Title: Hidden Message
+  Points: 200
+  Level: 2
+  Solution: Logo7.png
+  Hints:
+    1. Try Zip
+    
+    Description:
+      There's a hidden message for each image but one of them has a hidden image.
+      
